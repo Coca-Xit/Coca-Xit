@@ -20,8 +20,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - [Anonhat.org](https://anonhat.org)<br/>
 - [discord-bot-v14)](https://github.com/Coca-Xit/Discord-Bot-V14-main)<br/>
 
-## Status do meu github
-
 ## 📊 **Meu status no Github**
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Coca-xit&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true&locale=pt-br"/>
